@@ -48,7 +48,7 @@ Here is a curated list of my technical projects, ranging from machine learning m
 * **[Supermarket Billing System](https://github.com/Okeke11/Supermarket-System)**
     * **Description:** A Supermarket System built using C++ separated into two parts (administrator and buyer) where admin can add, modify or delete products and its prices and buyer can purchase and get receipts for purchased products
     * **Tech Stack:** C++
-* **[ANIMEWEB](https://github.com/Okeke11/animeweb)**
+* **[ANIMEWEB](https://github.com/Okeke11/animeweb)**  --- LIVE @ (https://okeke11.github.io/animeweb/)
     * **Description:** A website for streaming anime
     * **Tech Stack:** HTML, CSS, Javascript
 * **[Modern Login](https://github.com/Okeke11/Modern-Login)**
