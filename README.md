@@ -16,13 +16,13 @@ Here is a curated list of my technical projects, ranging from machine learning m
 * **[Data Preprocessing for ML](https://github.com/Okeke11/Data-Preprocessing-for-Machine-Learning)**
     * **Description:** Preprocess a raw dataset to make it ready for machine learning.
     * **Tech Stack:** Python, Pandas
-* **[Spam Email Classifier](https://github.com/Okeke11/spam-email-classifier)**
+* **[Spam Email Classifier](https://github.com/Okeke11/spam-email-classifier)**  --- LIVE @ (https://spam-email-classifierapp.streamlit.app/)
     * **Description:** A machine learning model designed to accurately detect and filter spam emails.
     * **Tech Stack:** Python, Scikit-Learn
 * **[Customer Churn Prediction Model](https://github.com/Okeke11/customer-churn-prediction)**
     * **Description:** A predictive model built to analyze customer data and forecast potential churn, helping businesses retain their user base.
     * **Tech Stack:** Python, Pandas
-* **[House Price Prediction Model](https://github.com/Okeke11/HousePricePrediction)**
+* **[House Price Prediction Model](https://github.com/Okeke11/HousePricePrediction)**  --- LIVE @ (https://housepricepredictiongrp2.streamlit.app/)
     * **Description:** House Price Prediction web app using Linear Regression. Trained on the California Housing dataset with scaled features. Allows users to input property details and instantly get predicted house prices.
     * **Tech Stack:** Python, scikit-learn, Pandas, Streamlit
 * **[Simple Linear Regression Model](https://github.com/Okeke11/Building-a-Simple-Linear-Regression-Model)**
@@ -84,13 +84,13 @@ Here is a curated list of my technical projects, ranging from machine learning m
 * **[Pose Estimation and Hand Tracking](https://github.com/Okeke11/Pose-Estimation-and-Hand-Tracking)**
     * **Description:** The Jedi Volume Controller is a Python-based project that uses your webcam and Google’s MediaPipe AI to control computer audio through hand gestures. By measuring the distance between your thumb and index finger, it maps a physical "pinch" or "spread" to your system volume, creating a touch-free, Minority Report-style interface.
     * **Tech Stack:** Python, Mediapipe
-* **[Simple Timer](https://github.com/Okeke11/Simple-Timer)**
+* **[Simple Timer](https://github.com/Okeke11/Simple-Timer)**  --- LIVE @ (https://okeke11.github.io/Simple-Timer/)
     * **Description:** Created a simple timer that alerts you when the time elapses
     * **Tech Stack:** HTML, Javascript
 * **[E-Commerce Website](https://github.com/Okeke11/e-commerce-website)**
     * **Description:** Ecommerce website made for a school project using php and mysql locally
     * **Tech Stack:** PHP, CSS
-* **[Coin Flip and Dice Roll](https://github.com/Okeke11/Coin-Flip-And-Dice-Roll)**
+* **[Coin Flip and Dice Roll](https://github.com/Okeke11/Coin-Flip-And-Dice-Roll)**  --- LIVE @ (https://okeke11.github.io/Coin-Flip-And-Dice-Roll/)
     * **Description:** A simple flip a coin and roll a dice interface
     * **Tech Stack:** HTML, CSS, Javascript
 * **[Organizelt](https://github.com/Okeke11/OrganizeIt)**
@@ -105,6 +105,9 @@ Here is a curated list of my technical projects, ranging from machine learning m
 * **[GART---A Full E-Commerce Website](https://github.com/Okeke11/GART---A-Full-E-Commerce-Website)**
     * **Description:** An e-commerce website still in development named GART where people can buy and sell anything securely
     * **Tech Stack:** Node.js, Express, MongoDB
+* **[Construction Website](https://github.com/Okeke11/samanate-shine)**  --- LIVE @ (https://samanate.lovable.app/)
+    * **Description:** Vibecoded a construction website with loveable to test my vibecoding skills
+    * **Tech Stack:** Typescript, CSS
 ### Others
 ---
 
