@@ -108,6 +108,9 @@ Here is a curated list of my technical projects, ranging from machine learning m
 * **[Construction Website](https://github.com/Okeke11/samanate-shine)**  --- LIVE @ (https://samanate.lovable.app/)
     * **Description:** Vibecoded a construction website with loveable to test my vibecoding skills
     * **Tech Stack:** Typescript, CSS
+* **[Phishing URL Analyzer](https://github.com/Okeke11/samanate-shine)**  --- LIVE @ (https://samanate.lovable.app/)
+    * **Description:** Vibecoded a construction website with loveable to test my vibecoding skills
+    * **Tech Stack:** Typescript, CSS
 ### Others
 ---
 
