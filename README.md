@@ -108,7 +108,7 @@ Here is a curated list of my technical projects, ranging from machine learning m
 * **[Construction Website](https://github.com/Okeke11/samanate-shine)**  --- LIVE @ (https://samanate.lovable.app/)
     * **Description:** Vibecoded a construction website with loveable to test my vibecoding skills
     * **Tech Stack:** Typescript, CSS
-* **[Phishing URL Analyzer](https://github.com/Okeke11/samanate-shine)**  --- LIVE @ ([https://samanate.lovable.app/](https://okekes-phishing-ai.onrender.com/))
+* **[Phishing URL Analyzer](https://github.com/Okeke11/samanate-shine)**  --- LIVE @ (https://okekes-phishing-ai.onrender.com/)
     * **Description:** An AI-powered backend API that analyzes URLs in real-time to detect phishing attempts. Instead of relying on static blacklists, this system extracts lexical features from the URL and uses a Machine Learning model to predict malicious intent.
     * **Tech Stack:** Python 3.x, Scikit-Learn, Pandas, NumPy, Joblib, FastAPI, Uvicorn
 ### Others
