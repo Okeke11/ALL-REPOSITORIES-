@@ -133,8 +133,8 @@ Here is a curated list of my technical projects, ranging from machine learning m
 ## 📫 Let's Connect
 
 * **Email:** [chiagoziemike14@gmail.com](mailto:chiagoziemike14@gmail.com)
-* **LinkedIn:** [Your LinkedIn Profile URL]
-* **Twitter/X:** [Your Twitter URL]
+* **LinkedIn:** [Chiagozie Okeke](www.linkedin.com/in/chiagoziem-okeke-452733363)
+* **Twitter/X:** [ChiagozieMicha2](https://x.com/ChiagozieMicha2/)
 
 ---
 ⭐️ *Feel free to explore my repositories and reach out if you'd like to collaborate on AI, Cloud, or Software Engineering projects!*
