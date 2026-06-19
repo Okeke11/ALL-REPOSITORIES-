@@ -40,6 +40,9 @@ Here is a curated list of my technical projects, ranging from machine learning m
 * **[Neural Networks with TensorFlow/Keras](https://github.com/Okeke11/Neural-Networks-with-TensorFlow-Keras)**
     * **Description:** Build a simple feed-forward neural network using TensorFlow/Keras for classification tasks (MNIST digit classification).
     * **Tech Stack:** Python, Pandas, Numpy, Scikit-learn
+* **[Salary Prediction System](https://github.com/Okeke11/Salary-Prediction-System)**
+    * **Description:** A Python-based machine learning model that accurately predicts an employee's expected salary based on their experience, education, and demographics, tested to ~87% accuracy.
+    * **Tech Stack:** Python, pandas, numpy, scikit-learn, streamlit
 
 ### Software Development & Systems
 * **[Student Management System](https://github.com/Okeke11/Student-Management-System)**
