@@ -16,13 +16,13 @@ Here is a curated list of my technical projects, ranging from machine learning m
 * **[Data Preprocessing for ML](https://github.com/Okeke11/Data-Preprocessing-for-Machine-Learning)**
     * **Description:** Preprocess a raw dataset to make it ready for machine learning.
     * **Tech Stack:** Python, Pandas
-* **[Spam Email Classifier](https://github.com/Okeke11/spam-email-classifier)**  --- LIVE @ (https://spam-email-classifierapp.streamlit.app/)
+* **[Spam Email Classifier](https://github.com/Okeke11/spam-email-classifier)**  --- LIVE @ [Spam Email Classifier](https://spam-email-classifierapp.streamlit.app/)
     * **Description:** A machine learning model designed to accurately detect and filter spam emails.
     * **Tech Stack:** Python, Scikit-Learn
 * **[Customer Churn Prediction Model](https://github.com/Okeke11/customer-churn-prediction)**
     * **Description:** A predictive model built to analyze customer data and forecast potential churn, helping businesses retain their user base.
     * **Tech Stack:** Python, Pandas
-* **[House Price Prediction Model](https://github.com/Okeke11/HousePricePrediction)**  --- LIVE @ (https://housepricepredictiongrp2.streamlit.app/)
+* **[House Price Prediction Model](https://github.com/Okeke11/HousePricePrediction)**  --- LIVE @ [House Price Prediction](https://housepricepredictiongrp2.streamlit.app/)
     * **Description:** House Price Prediction web app using Linear Regression. Trained on the California Housing dataset with scaled features. Allows users to input property details and instantly get predicted house prices.
     * **Tech Stack:** Python, scikit-learn, Pandas, Streamlit
 * **[Simple Linear Regression Model](https://github.com/Okeke11/Building-a-Simple-Linear-Regression-Model)**
@@ -40,9 +40,15 @@ Here is a curated list of my technical projects, ranging from machine learning m
 * **[Neural Networks with TensorFlow/Keras](https://github.com/Okeke11/Neural-Networks-with-TensorFlow-Keras)**
     * **Description:** Build a simple feed-forward neural network using TensorFlow/Keras for classification tasks (MNIST digit classification).
     * **Tech Stack:** Python, Pandas, Numpy, Scikit-learn
-* **[Salary Prediction System](https://github.com/Okeke11/Salary-Prediction-System)**
+* **[Salary Prediction System](https://github.com/Okeke11/Salary-Prediction-System)** --- LIVE @ [Salary Prediction System 1](https://salary-prediction-system1.streamlit.app/)
     * **Description:** A Python-based machine learning model that accurately predicts an employee's expected salary based on their experience, education, and demographics, tested to ~87% accuracy.
     * **Tech Stack:** Python, pandas, numpy, scikit-learn, streamlit
+* **[Phishing URL Analyzer](https://github.com/Okeke11/Phishing-URL-Analyzer)**  --- LIVE @ [Okeke's Phishing AI](https://okekes-phishing-ai.onrender.com/)
+    * **Description:** An AI-powered backend API that analyzes URLs in real-time to detect phishing attempts. Instead of relying on static blacklists, this system extracts lexical features from the URL and uses a Machine Learning model to predict malicious intent.
+    * **Tech Stack:** Python 3.x, Scikit-Learn, Pandas, NumPy, Joblib, FastAPI, Uvicorn
+* **[Laptop-Price-Predictor](https://github.com/Okeke11/Laptop-Price-Predictor)**  --- LIVE @ [Laptop Price Predictor](https://laptop-price-predictor-0n9e.onrender.com/)
+    * **Description:** An AI-powered backend API that analyzes URLs in real-time to detect phishing attempts. Instead of relying on static blacklists, this system extracts lexical features from the URL and uses a Machine Learning model to predict malicious intent.
+    * **Tech Stack:** Python 3.x, Scikit-Learn, Pandas, NumPy, Joblib, FastAPI, Uvicorn
 
 ### Software Development & Systems
 * **[Student Management System](https://github.com/Okeke11/Student-Management-System)**
@@ -51,7 +57,7 @@ Here is a curated list of my technical projects, ranging from machine learning m
 * **[Supermarket Billing System](https://github.com/Okeke11/Supermarket-System)**
     * **Description:** A Supermarket System built using C++ separated into two parts (administrator and buyer) where admin can add, modify or delete products and its prices and buyer can purchase and get receipts for purchased products
     * **Tech Stack:** C++
-* **[ANIMEWEB](https://github.com/Okeke11/animeweb)**  --- LIVE @ (https://okeke11.github.io/animeweb/)
+* **[ANIMEWEB](https://github.com/Okeke11/animeweb)**  --- LIVE @ [AnimeWeb](https://okeke11.github.io/animeweb/)
     * **Description:** A website for streaming anime
     * **Tech Stack:** HTML, CSS, Javascript
 * **[Modern Login](https://github.com/Okeke11/Modern-Login)**
@@ -87,13 +93,13 @@ Here is a curated list of my technical projects, ranging from machine learning m
 * **[Pose Estimation and Hand Tracking](https://github.com/Okeke11/Pose-Estimation-and-Hand-Tracking)**
     * **Description:** The Jedi Volume Controller is a Python-based project that uses your webcam and Google’s MediaPipe AI to control computer audio through hand gestures. By measuring the distance between your thumb and index finger, it maps a physical "pinch" or "spread" to your system volume, creating a touch-free, Minority Report-style interface.
     * **Tech Stack:** Python, Mediapipe
-* **[Simple Timer](https://github.com/Okeke11/Simple-Timer)**  --- LIVE @ (https://okeke11.github.io/Simple-Timer/)
+* **[Simple Timer](https://github.com/Okeke11/Simple-Timer)**  --- LIVE @ [Simple Timer](https://okeke11.github.io/Simple-Timer/)
     * **Description:** Created a simple timer that alerts you when the time elapses
     * **Tech Stack:** HTML, Javascript
 * **[E-Commerce Website](https://github.com/Okeke11/e-commerce-website)**
     * **Description:** Ecommerce website made for a school project using php and mysql locally
     * **Tech Stack:** PHP, CSS
-* **[Coin Flip and Dice Roll](https://github.com/Okeke11/Coin-Flip-And-Dice-Roll)**  --- LIVE @ (https://okeke11.github.io/Coin-Flip-And-Dice-Roll/)
+* **[Coin Flip and Dice Roll](https://github.com/Okeke11/Coin-Flip-And-Dice-Roll)**  --- LIVE @ [Con flip and Dice roll](https://okeke11.github.io/Coin-Flip-And-Dice-Roll/)
     * **Description:** A simple flip a coin and roll a dice interface
     * **Tech Stack:** HTML, CSS, Javascript
 * **[Organizelt](https://github.com/Okeke11/OrganizeIt)**
@@ -108,12 +114,19 @@ Here is a curated list of my technical projects, ranging from machine learning m
 * **[GART---A Full E-Commerce Website](https://github.com/Okeke11/GART---A-Full-E-Commerce-Website)**
     * **Description:** An e-commerce website still in development named GART where people can buy and sell anything securely
     * **Tech Stack:** Node.js, Express, MongoDB
-* **[Construction Website](https://github.com/Okeke11/samanate-shine)**  --- LIVE @ (https://samanate.lovable.app/)
+* **[Construction Website](https://github.com/Okeke11/samanate-shine)**  --- LIVE @ [SAMANATE](https://samanate.lovable.app/)
     * **Description:** Vibecoded a construction website with loveable to test my vibecoding skills
     * **Tech Stack:** Typescript, CSS
-* **[Phishing URL Analyzer](https://github.com/Okeke11/samanate-shine)**  --- LIVE @ (https://okekes-phishing-ai.onrender.com/)
-    * **Description:** An AI-powered backend API that analyzes URLs in real-time to detect phishing attempts. Instead of relying on static blacklists, this system extracts lexical features from the URL and uses a Machine Learning model to predict malicious intent.
-    * **Tech Stack:** Python 3.x, Scikit-Learn, Pandas, NumPy, Joblib, FastAPI, Uvicorn
+* **[Simple Shell Mini Terminal](https://github.com/Okeke11/Simple-Shell-Mini-Terminal-)**
+    * **Description:** A lightweight, cross-platform terminal shell I built in C++ to simulate standard Linux commands like echo, clear, and exit.
+    * **Tech Stack:** C++
+* **[Procurement Landing Page](https://github.com/Okeke11/Procurement-Landing-Page)**
+    * **Description:** School project (actually created a year ago)
+    * **Tech Stack:** HTML, CSS, Javascript
+* **[Load Balancer](https://github.com/Okeke11/Load-Balancer)**
+    * **Description:** A Node.js proxy server that distributes incoming traffic.
+    * **Tech Stack:** Node.js, Express.js
+
 ### Others
 ---
 
