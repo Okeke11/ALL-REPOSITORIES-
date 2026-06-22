@@ -8,7 +8,7 @@ When I'm not coding, I'm actively engaged with my community as a Cowrywise Campu
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects-
 
 Here is a curated list of my technical projects, ranging from machine learning models to system administration tools:
 
